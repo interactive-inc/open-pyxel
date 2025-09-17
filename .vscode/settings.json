@@ -1,0 +1,17 @@
+{
+  "[json]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.biome": "explicit"
+    },
+    "editor.defaultFormatter": "biomejs.biome",
+    "editor.formatOnSave": true
+  },
+  "files.associations": {
+    "*.json": "json"
+  },
+  "files.exclude": {
+    ".venv": true,
+    ".ruff_cache": true,
+    "node_modules": true
+  }
+}

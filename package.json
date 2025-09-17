@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "format": "biome check . --fix --unsafe"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@biomejs/biome": "^2.2.4"
+  }
+}
