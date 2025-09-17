@@ -3,3 +3,4 @@ See @.github/copilot-instructions.md for project overview and pyproject.toml for
 ## Additional Instructions
 
 - @.github/instructions/core.instructions.md
+- @.github/instructions/pyxel.instructions.md
