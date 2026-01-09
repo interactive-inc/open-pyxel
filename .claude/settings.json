@@ -1,6 +1,7 @@
 {
   "permissions": {
-    "defaultMode": "bypassPermissions"
+    "defaultMode": "bypassPermissions",
+    "deny": ["Bash(python:*)", "Bash(uv run pyxel run main.py)"]
   },
   "enableAllProjectMcpServers": true,
   "hooks": {
